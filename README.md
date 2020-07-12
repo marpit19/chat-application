@@ -2,6 +2,8 @@
 
 College Connectis a Chat Application used to create room and join by a unique user name!!!!
 
+![](https://www.npmjs.com/package/react)
+
 # Link
 
 https://dreamy-hawking-836873.netlify.app/
@@ -11,6 +13,11 @@ https://dreamy-hawking-836873.netlify.app/
   - React JS
   - Socket.io
   - Node JS
+  
+## Setup
+```
+- run npm i && npm start for both client and server side to start the development server
+```
 
 ## Installation 
 
