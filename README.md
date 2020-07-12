@@ -12,9 +12,9 @@ $ npm install
 $ cd ../client
 $ npm start
 ```
+## Image
 
-![GitHub Logo](/capture.PNG)
-Format: ![Alt Text](url)
+https://github.com/marpit19/chat-application/blob/master/Capture.PNG
 
 ## Please make sure to follow and give a star!!!
 
