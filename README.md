@@ -6,6 +6,12 @@ College Connectis a Chat Application used to create room and join by a unique us
 
 https://dreamy-hawking-836873.netlify.app/
 
+## Used
+
+  - React JS
+  - Socket.io
+  - Node JS
+
 ## Installation 
 
 ```
